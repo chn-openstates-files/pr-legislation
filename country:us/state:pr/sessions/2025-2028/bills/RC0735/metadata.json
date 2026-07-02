@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0735",
-  "title": "Para ordenar a la Comisi\u00f3n de Recreaci\u00f3n y Deportes de la C\u00e1mara de Representantes del Gobierno de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre los procesos de selecci\u00f3n, evaluaci\u00f3n y designaci\u00f3n de los abanderados del Comit\u00e9 Ol\u00edmpico de Puerto Rico (COPUR); las circunstancias que rodearon la designaci\u00f3n y posterior revocaci\u00f3n del se\u00f1or Luis \u201cTuto\u201d Berm\u00fadez como abanderado de la delegaci\u00f3n de Puerto Rico para los Juegos Centroamericanos y del Caribe Santo Domingo 2026; el momento y la forma en que el COPUR advino en conocimiento de los hechos ocurridos en el a\u00f1o 2018 que motivaron dicha revocaci\u00f3n; la garant\u00eda del debido proceso de ley; la transparencia institucional en la toma de decisiones; y el uso de los fondos p\u00fablicos asignados al organismo.",
+  "title": "Para ordenar a la Comisi\u00f3n de Recreaci\u00f3n y Deportes de la C\u00e1mara de Representantes del Gobierno de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre los procesos de selecci\u00f3n, evaluaci\u00f3n y designaci\u00f3n de los abanderados del Comit\u00e9 Ol\u00edmpico de Puerto Rico (COPUR); las circunstancias que rodearon la designaci\u00f3n y posterior revocaci\u00f3n del se\u00f1or Luis \u201cTuto\u201d Berm\u00fadez como abanderado de la delegaci\u00f3n de Puerto Rico para los Juegos Centroamericanos y del Caribe Santo Domingo 2026; el momento y la forma en que el COPUR advino en conocimiento de los hechos ocurridos en el a\u00f1o 2018 que motivaron dicha revocaci\u00f3n; la garant\u00eda del debido proceso de ley y la presunci\u00f3n de inocencia en los procedimientos del organismo; la transparencia institucional en la toma de decisiones; el uso y la fiscalizaci\u00f3n de los fondos p\u00fablicos asignados al COPUR; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +192,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161565/RC0735-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -198,6 +221,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

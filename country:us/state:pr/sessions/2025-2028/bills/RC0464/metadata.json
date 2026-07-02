@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0464",
-  "title": "Para ordenar a la Comisi\u00f3n de Vivienda y Desarrollo Urbano de la C\u00e1mara de Representantes, realizar una investigaci\u00f3n sobre la situaci\u00f3n actual de la titularidad de los terrenos ocupados por las comunidades Pompeya y Villa Kennedy ubicadas en el Municipio de Lo\u00edza y el sector Palmer en el Municipio de R\u00edo Grande, con el fin de examinar los procesos legales y administrativos relacionados con la titularidad de los terrenos; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Vivienda y Desarrollo Urbano de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre la titularidad de los terrenos ocupados por las comunidades Pompeya y Villa Kennedy en el Municipio de Lo\u00edza, y el sector Palmer, en el Municipio de R\u00edo Grande, a fin de identificar los mecanismos legales y administrativos necesarios para facilitar la adquisici\u00f3n de titularidad de dichos terrenos por parte de sus residentes; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -136,6 +136,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +194,17 @@
       ],
       "date": "2025-10-22",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158885/RC0464-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -200,6 +223,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

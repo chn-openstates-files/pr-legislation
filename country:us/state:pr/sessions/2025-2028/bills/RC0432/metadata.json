@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0432",
-  "title": "Para ordenar a la Comisi\u00f3n de Seguridad P\u00fablica de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n en torno al cumplimiento con las disposiciones de la Ley 46-2019 y la entrega de Planes Escolares de Operaciones de Emergencias por parte de todas las escuelas, colegios, centro de estudios supervisados o centro de cuido extendido; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Seguridad P\u00fablica de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre el grado de cumplimiento de las disposiciones de la Ley 46-2019, conocida como \u201cLey sobre Notificaci\u00f3n de Planes Escolares de Operaciones de Emergencias de Puerto Rico\u201d, y sobre las medidas adoptadas por las escuelas, colegios, centro de estudios supervisados o centro de cuido extendido para garantizar la seguridad y preparaci\u00f3n ante situaciones de emergencia; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -136,6 +136,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +194,17 @@
       ],
       "date": "2025-11-10",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158458/RC0432-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -200,6 +223,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

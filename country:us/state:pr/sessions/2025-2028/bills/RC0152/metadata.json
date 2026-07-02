@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0152",
-  "title": "Para ordenar a la Comisi\u00f3n de la Comisi\u00f3n de Transportaci\u00f3n e Infraestructura de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n abarcadora sobre la integraci\u00f3n de los municipios de Cayey y Cidra en las rutas de transporte colectivo que conectan con la zona metropolitana de San Juan, con el fin de evaluar su viabilidad, beneficios y posibles estrategias de implementaci\u00f3n, en aras de fomentar el desarrollo econ\u00f3mico y mejorar la movilidad de los ciudadanos de la regi\u00f3n.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Sur de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n abarcadora sobre la viabilidad de integrar a los municipios de Cayey y Cidra en rutas de transporte colectivo hacia la zona metropolitana de San Juan, con el prop\u00f3sito de fomentar el desarrollo econ\u00f3mico regional y optimizar las alternativas de transporte para sus residentes.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2025-05-02",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153764/RC0152 -ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

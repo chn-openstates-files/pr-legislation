@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0634",
-  "title": "Para ordenar a la Comisi\u00f3n de Seguridad P\u00fablica de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico, realizar una exhaustiva investigaci\u00f3n en torno a los procesos de consulta, posibles beneficios, obras, materiales y equipos necesarios, impacto fiscal, cambios en funciones de personal, uso de fondos asignados, federales o estatales, y t\u00e9rmino estimado para la ejecuci\u00f3n, entre otros fundamentos, considerados por la Polic\u00eda de Puerto Rico para establecer un Plan para la Consolidaci\u00f3n de Cuarteles, seg\u00fan anunciado por el Superintendente de la Polic\u00eda, Joseph Gonz\u00e1lez Falc\u00f3n; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Seguridad P\u00fablica de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva en torno a los procesos de consulta, posibles beneficios, obras, materiales y equipos necesarios, impacto fiscal, cambios en funciones de personal, uso de fondos asignados, federales o estatales, y t\u00e9rmino estimado para la ejecuci\u00f3n, entre otros fundamentos, considerados por la Polic\u00eda de Puerto Rico para establecer un Plan para la Consolidaci\u00f3n de Cuarteles, seg\u00fan anunciado por el Superintendente de la Polic\u00eda, Joseph Gonz\u00e1lez Falc\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +192,17 @@
       ],
       "date": "2026-04-28",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160600/RC0634-eta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -198,6 +221,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

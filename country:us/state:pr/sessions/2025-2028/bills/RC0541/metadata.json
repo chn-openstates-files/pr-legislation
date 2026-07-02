@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0541",
-  "title": "Para ordenar a la Comisi\u00f3n de Vivienda y Desarrollo Urbano de la Camara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva en torno a la ejecuci\u00f3n por parte de la Autoridad para el Financiamiento de la Vivienda (AFV) del \u201cPrograma Vivienda Joven\u201d, para conocer cuantas viviendas se han comprado bajo este programa, as\u00ed como todo lo relacionado los requisitos que se han implementado para la otorgaci\u00f3n de este programa, las solicitudes atendidas, las que quedan pendientes, las denegatorias, y todo lo relacionado al impacto de este programa en la poblaci\u00f3n juvenil de Puerto Rico; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Vivienda y Desarrollo Urbano de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n  exhaustiva en torno a la ejecuci\u00f3n por parte de la Autoridad para el Financiamiento de la Vivienda (AFV) del \u201cPrograma Vivienda Joven\u201d, para conocer cu\u00e1ntas viviendas se han comprado bajo este programa, as\u00ed como todo lo relacionado a los requisitos que se han implementado para la otorgaci\u00f3n de sus beneficios, las solicitudes atendidas, las que quedan pendientes, las denegatorias, y todo lo relacionado al impacto de dicho programa en la poblaci\u00f3n juvenil de Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2026-03-31",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159702/RC0541-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

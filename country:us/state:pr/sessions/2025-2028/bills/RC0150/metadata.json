@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0150",
-  "title": "Para ordenar a la Comisi\u00f3n de Educaci\u00f3n, Arte y Cultura de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico la realizaci\u00f3n de una investigaci\u00f3n sobre la implementaci\u00f3n de la Ley 56-2018 la cual incorpora los cursos de lenguajes de se\u00f1as en las instituciones educativas de nivel elemental, intermedio y superior; con el fin de corregir sus faltas, atender sus necesidades; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Educaci\u00f3n de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre la implementaci\u00f3n de la Ley 56-2018, la cual incorpora los cursos de lenguaje de se\u00f1as en las instituciones educativas de nivel elemental, intermedio y superior; evaluar su cumplimiento y efectividad; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2025-03-27",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153762/RC0150 -ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

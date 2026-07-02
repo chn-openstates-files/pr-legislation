@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0497",
-  "title": "Para ordenar a la Comisi\u00f3n de Salud a realizar un estudio estad\u00edstico sobre la viabilidad\nconveniencia y posibilidad de aumentar el salario de las enfermeras del sector\np\u00fablico y privado de Puerto Rico.",
+  "title": "Para ordenar a las Comisiones de Salud; y de Hacienda, Presupuesto y PROMESA del Senado de Puerto Rico a realizar un estudio sobre la viabilidad de aumentar el salario a los profesionales de enfermer\u00edas tanto del sector p\u00fablico y privado de Puerto Rico.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -150,9 +150,27 @@
       "_processing": {
         "log_file_created": "2026-06-09T14:31:05Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -162,11 +180,11 @@
       "organization_id": null
     },
     {
-      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -215,6 +233,28 @@
       ],
       "date": "2026-06-08",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161104/rs0497a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161104/rs0497a-26 Enmendada por la RS 559.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -233,6 +273,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-09T14:31:05Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

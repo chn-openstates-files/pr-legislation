@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0183",
-  "title": "Para ordenar a la Comisi\u00f3n de Retiro de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre el Sistema de Retiro de Empleados de la Autoridad de Energ\u00eda El\u00e9ctrica; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n del Sistema de Retiro de la C\u00e1mara de Representantes del Gobierno de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre el Sistema de Retiro de Empleados de la Autoridad de Energ\u00eda El\u00e9ctrica; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -192,6 +204,17 @@
       ],
       "date": "2025-04-11",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154014/RC0183 -ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -210,6 +233,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

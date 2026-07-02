@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0738",
-  "title": "Para ordenar a la Comisi\u00f3n de Recreaci\u00f3n y Deporte de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n urgente sobre las serias alegaciones de un presunto patr\u00f3n de maltrato al que han sido sometidos integrantes de la Federaci\u00f3n Puertorrique\u00f1a de Canotaje de Puerto Rico por parte de un entrenador; con el prop\u00f3sito de recomendar las acciones legislativas y administrativas necesarias; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Recreaci\u00f3n y Deportes de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n urgente sobre las serias alegaciones de un presunto patr\u00f3n de maltrato al que han sido sometidos integrantes de la Federaci\u00f3n Puertorrique\u00f1a de Canotaje por parte de un entrenador; con el prop\u00f3sito de recomendar las acciones legislativas y administrativas necesarias; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,23 +126,35 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Luis J. Jim\u00e9nez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis J. Jim\\u00e9nez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jos\u00e9 F. Aponte Hern\u00e1ndez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jos\\u00e9 F. Aponte Hern\\u00e1ndez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis J. Jim\u00e9nez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis J. Jim\\u00e9nez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -180,6 +192,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161580/RC0738-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -198,6 +221,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

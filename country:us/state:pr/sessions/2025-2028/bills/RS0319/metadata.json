@@ -214,6 +214,16 @@
       "_processing": {
         "log_file_created": "2026-05-27T14:59:16Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -304,6 +314,28 @@
       ],
       "date": "2026-05-19",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 1er informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158778/rs319 inf parcial vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-26",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158778/rs0319a-25 enmendada por la RS 494 y 557.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -322,6 +354,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-27T14:59:16Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

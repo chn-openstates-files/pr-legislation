@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0712",
-  "title": "Para ordenar a la Comisi\u00f3n de Asuntos Municipales de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva en torno a las acciones administrativas, decisiones operacionales y directrices impartidas por la Regi\u00f3n Metro de la Autoridad de Acueductos y Alcantarillados (A.A.A.) relacionadas con el cierre de v\u00e1lvulas y el desv\u00edo de agua almacenada en el tanque de abastecimiento localizado en las inmediaciones de la carretera PR-865 cercano a las instalaciones de Pepsi Cola en el municipio de Toa Baja; determinar el impacto que dichas actuaciones han tenido sobre los residentes, comercios e instituciones del Municipio de Toa Baja; identificar las comunidades y municipios beneficiados por tales desv\u00edos de agua; evaluar la razonabilidad, necesidad y legalidad de dichas determinaciones; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Asuntos Municipales de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva en torno a las acciones administrativas, decisiones operacionales, criterios t\u00e9cnicos y directrices impartidas por la Regi\u00f3n Metro de la Autoridad de Acueductos y Alcantarillados (A.A.A.) relacionadas con la operaci\u00f3n del sistema de distribuci\u00f3n de agua potable, incluyendo el cierre de v\u00e1lvulas y el desv\u00edo de agua, el manejo de tanques del almacenamiento, los patrones de bombeo y el uso de datos operacionales asociados al tanque de abastecimiento localizado en las inmediaciones de la carretera PR-865, cercano a las instalaciones de Pepsi Cola en el municipio de Toa Baja; determinar el impacto que tales determinaciones han tenido sobre los residentes, comercios e instituciones del Municipio de Toa Baja; identificar las comunidades, sectores y municipios beneficiados o afectados por dichas operaciones; evaluar la razonabilidad, necesidad, legalidad, transparencia y documentaci\u00f3n de tales determinaciones; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -136,23 +136,35 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Pedro  J. Santiago Guzm\u00e1n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Pedro  J. Santiago Guzm\\u00e1n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pedro  J. Santiago Guzm\u00e1n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pedro  J. Santiago Guzm\\u00e1n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -190,6 +202,17 @@
       ],
       "date": "2026-06-15",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161388/RC0712-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -208,6 +231,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

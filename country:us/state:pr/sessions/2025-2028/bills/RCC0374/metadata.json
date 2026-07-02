@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0374",
-  "title": "Para enmendar la Resoluci\u00f3n Conjunta del Fondo General del Gobierno de Puerto Rico para el A\u00f1o Fiscal 2026, aumentando el presupuesto de trece mil noventa y cinco millones trescientos quince mil d\u00f3lares ($13,095,315,000) a trece mil setecientos treinta millones ochocientos setenta y tres mil d\u00f3lares ($13,730,873,000), mediante la asignaci\u00f3n de fondos del Fondo General del Tesoro Estatal para sufragar gastos del Gobierno de Puerto Rico correspondientes al a\u00f1o fiscal que termina el 30 de junio de 2026; y para incluir, adem\u00e1s, como parte del Presupuesto General para el A\u00f1o Fiscal 2026, una asignaci\u00f3n de quinientos cincuenta y ocho mil d\u00f3lares ($558,000), provenientes de sobrantes de a\u00f1os anteriores del Fondo General del Tesoro Estatal, para reponer la asignaci\u00f3n destinada al pago del Instrumento de Valor Contingente del Arbitrio del Ron, y para otros fines.",
+  "title": "Para enmendar la Resoluci\u00f3n Conjunta del Fondo General del Gobierno de Puerto Rico para el A\u00f1o Fiscal 2026, aumentando el presupuesto de trece mil noventa y cinco millones trescientos quince mil d\u00f3lares ($13,095,315,000) a trece mil seiscientos noventa y dos millones ochocientos treinta y un mil d\u00f3lares (13,692,831,000), mediante la asignaci\u00f3n de fondos del Fondo General del Tesoro Estatal para sufragar gastos del Gobierno de Puerto Rico correspondientes al a\u00f1o fiscal que termina el 30 de junio de 2026; y para incluir, adem\u00e1s, como parte del Presupuesto General para el A\u00f1o Fiscal 2026, una asignaci\u00f3n de quinientos ochenta y ocho mil d\u00f3lares ($588,000), provenientes de sobrantes de a\u00f1os anteriores del Fondo General del Tesoro Estatal, para reponer la asignaci\u00f3n destinada al pago del Instrumento de Valor Contingente del Arbitrio del Ron, y para otros fines.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -236,23 +236,75 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
+    },
+    {
+      "description": "Veto de L\u00ednea",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  37-2026",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -325,11 +377,33 @@
       "classification": ""
     },
     {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161561/RCC0374 Conc..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
+    },
+    {
       "note": "Se dispone que sea enrolado",
       "links": [
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/161561/RCC0374 enrolado.docx",
           "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
+    },
+    {
+      "note": "Res. Conj.  37-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161561/Res. Conj. 37-2026.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "2026-06-30",
@@ -352,6 +426,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

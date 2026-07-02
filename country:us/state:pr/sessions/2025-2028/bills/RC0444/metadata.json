@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0444",
-  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Oeste de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico realizar una investigaci\u00f3n y an\u00e1lisis pleno en torno al estado de situaci\u00f3n actual del otrora Zool\u00f3gico de Puerto Rico Dr. Juan A. Rivero, sito en el Municipio de Mayag\u00fcez; igualmente, llevar a cabo un examen ponderado en torno a la viabilidad, pertinencia y razonabilidad de la pol\u00edtica gubernamental y de planificaci\u00f3n urbana que impulsa e interesa implantar y desarrollar el Secretario del Departamento de Recursos Naturales y Ambientales en dicha finca.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Oeste de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n y an\u00e1lisis pleno en torno al estado de situaci\u00f3n actual del otrora Zool\u00f3gico de Puerto Rico Dr. Juan A. Rivero, sito en el Municipio de Mayag\u00fcez; y evaluar la viabilidad, pertinencia y razonabilidad de la pol\u00edtica gubernamental y de planificaci\u00f3n urbana que impulsa desarrollar el Secretario del Departamento de Recursos Naturales y Ambientales en dicha finca.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -136,23 +136,35 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Lilibeth  Rosas Vargas - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Lilibeth  Rosas Vargas - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -190,6 +202,17 @@
       ],
       "date": "2026-02-13",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158555/RC0444-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -208,6 +231,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

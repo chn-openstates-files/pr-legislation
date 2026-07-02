@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0433",
-  "title": "Para ordenar a la Comisi\u00f3n de Turismo y a la Comisi\u00f3n de Recursos Naturales de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre el estado actual del islote Caja de Muertos y su impacto en el desarrollo tur\u00edstico sostenible de Ponce y la regi\u00f3n sur; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Turismo y a la Comisi\u00f3n de Recursos Naturales de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre el estado actual del islote Caja de Muertos, incluyendo su condici\u00f3n f\u00edsica, su valor ecol\u00f3gico y los factores que inciden en su aprovechamiento tur\u00edstico sostenible para Ponce y la regi\u00f3n sur; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -136,6 +136,18 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +194,17 @@
       ],
       "date": "2025-12-03",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158472/RC0433-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -200,6 +223,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }

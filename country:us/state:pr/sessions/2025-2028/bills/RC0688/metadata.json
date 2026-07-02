@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0688",
-  "title": "Para ordenar a la Comisi\u00f3n de Recreaci\u00f3n y Deportes de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre el cumplimiento, por parte del Comit\u00e9 Ol\u00edmpico de Puerto Rico y las federaciones y organizaciones deportivas, con lo establecido en el Art\u00edculo 14 de la Ley 5-2022, conocida como \u201cLey para el Fortalecimiento y Desarrollo del Deporte Puertorrique\u00f1o\u201d, y el Art\u00edculo 10 de la Ley 8-2004, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de Recreaci\u00f3n y Deportes\u201d, las cuales requieren la preparaci\u00f3n y presentaci\u00f3n anualmente de estados financieros auditados y sus planillas contributivas; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Recreaci\u00f3n y Deportes de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el cumplimiento por parte del Comit\u00e9 Ol\u00edmpico de Puerto Rico y las federaciones y organizaciones deportivas con lo establecido en el Art\u00edculo 14 de la Ley N\u00fam. 5-2022, conocida como \u201cLey para el Fortalecimiento y Desarrollo del Deporte Puertorrique\u00f1o\u201d, y el Art\u00edculo 10 de la Ley N\u00fam. 8-2004, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de Recreaci\u00f3n y Deportes\u201d, en cuanto a la obligaci\u00f3n de preparar y presentar anualmente los estados financieros auditados y las planillas contributivas correspondientes; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -94,6 +94,50 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
+    },
+    {
+      "description": "Aprobada por C\u00e1mara por unanimidad",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:41:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,6 +192,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161096/RC0688-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -166,6 +221,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-02T13:41:54Z"
   }
 }
