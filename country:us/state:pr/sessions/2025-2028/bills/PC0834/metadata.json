@@ -414,6 +414,28 @@
       }
     },
     {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Se reconsider\u00f3 (Devuelto por Fortaleza)",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
       "description": "En el Calendario de Ordenes Especiales del Senado",
       "date": "2026-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -424,30 +446,6 @@
       }
     },
     {
-      "description": "Aprobado con enmiendas en sala",
-      "date": "2026-06-25T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-06-26T14:07:47Z"
-      }
-    },
-    {
-      "description": "Aprobado con enmiendas en sala",
-      "date": "2026-06-25T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-06-26T14:07:47Z"
-      }
-    },
-    {
       "description": "Se reconsider\u00f3 (Devuelto por Fortaleza)",
       "date": "2026-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -458,13 +456,23 @@
       }
     },
     {
-      "description": "Se reconsider\u00f3 (Devuelto por Fortaleza)",
+      "description": "Se dispone que sea enrolado",
       "date": "2026-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-26T14:07:47Z"
+        "log_file_created": "2026-07-07T14:11:10Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-07-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:11:10Z"
       }
     }
   ],
@@ -626,6 +634,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/PC0834-conferencia  (Recon).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -644,6 +663,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-26T14:07:47Z"
+    "logs_latest_update": "2026-07-07T14:11:10Z"
   }
 }

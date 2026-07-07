@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0374",
-  "title": "Para ordenar a las Comisiones de Seguridad Publica; y de Adultos Mayores y Bienestar Social de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre todo asunto relacionado con el tema de la seguridad y el crimen contra la poblaci\u00f3n de adultos mayores de sesenta (60) a\u00f1os; los aspectos sociales, psicol\u00f3gicos y de ley y orden de esta situaci\u00f3n desde la perspectiva de todas las agencias y entidades concernidas; propuestas de pol\u00edtica p\u00fablica y acci\u00f3n interagencial para atender la situaci\u00f3n; y para otros asuntos fines relacionados.",
+  "title": "Para ordenar a las Comisiones de Seguridad Publica; y de Adultos Mayores y Bienestar Social de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre todo asunto relacionado con el tema de la seguridad y el crimen contra la poblaci\u00f3n de adultos mayores de sesenta (60) a\u00f1os; los aspectos sociales, psicol\u00f3gicos y de ley y orden de esta situaci\u00f3n desde la perspectiva de todas las agencias y entidades concernidas; propuestas de pol\u00edtica p\u00fablica y acci\u00f3n interagencial para atender la situaci\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc374"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -80,7 +84,7 @@
       }
     },
     {
-      "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "description": "Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
       "date": "2025-08-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -88,7 +92,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:39:47Z"
+        "log_file_created": "2026-07-07T14:11:10Z"
       }
     },
     {
@@ -156,6 +160,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #1",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:11:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -202,6 +216,17 @@
       ],
       "date": "2025-08-14",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156576/RC0374 -ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-08-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -220,6 +245,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2026-07-07T14:11:10Z"
   }
 }
