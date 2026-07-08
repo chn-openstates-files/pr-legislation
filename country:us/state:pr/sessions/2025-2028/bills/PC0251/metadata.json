@@ -162,6 +162,38 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:13:44Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-07-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-08T13:45:05Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-07-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-08T13:45:05Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-07-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-08T13:45:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -219,6 +251,39 @@
       ],
       "date": "2026-05-04",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153131/PC0251ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153131/pc0251-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-06",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153131/pc0251-ent.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -237,6 +302,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:13:44Z"
+    "logs_latest_update": "2026-07-08T13:45:05Z"
   }
 }
