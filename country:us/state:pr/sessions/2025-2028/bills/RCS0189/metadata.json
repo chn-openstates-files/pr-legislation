@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0189",
-  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas confeccionar, dise\u00f1ar\ny expedir una tablilla y una licencia de conducir conmemorativa del\nSemiquincentenario de los Estados Unidos, a partir del 1 de julio de 2026 hasta el 30\nde junio de 2027; disponer sobre el dise\u00f1o y los requisitos para adquirirla; ordenar\nal Secretario del Departamento de Hacienda y al Secretario del Departamento de\nTransportaci\u00f3n y Obras P\u00fablicas aprobar y/o enmendar las normas, reglas y\nreglamentos necesarios y convenientes; ordenar al Departamento de Estado la\ncreaci\u00f3n y apertura de una tienda de memorabilia y recuerdos alusivos a esta\nfestividad y para otros fines relacionados.",
+  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas confeccionar, dise\u00f1ar y expedir una tablilla conmemorativa del Semiquincentenario de los Estados Unidos, a partir del 1 de julio de 2026 hasta el 30 de junio de 2027; disponer sobre el dise\u00f1o y los requisitos para adquirirla; ordenar al Secretario del Departamento de Hacienda y al Secretario del Departamento de Transportaci\u00f3n y Obras P\u00fablicas aprobar y/ o enmendar las normas, reglas y reglamentos, y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -264,6 +264,46 @@
       "_processing": {
         "log_file_created": "2026-06-25T14:08:25Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-09T14:36:52Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-09T14:36:52Z"
+      }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-09T14:36:52Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  38-2026",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-09T14:36:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -362,6 +402,28 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161355/rcs0189e- (Conferencia).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-22",
+      "classification": ""
+    },
+    {
+      "note": "Res. Conj.  38-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161355/Res. Conj. 38-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -380,6 +442,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-25T14:08:25Z"
+    "logs_latest_update": "2026-07-09T14:36:52Z"
   }
 }

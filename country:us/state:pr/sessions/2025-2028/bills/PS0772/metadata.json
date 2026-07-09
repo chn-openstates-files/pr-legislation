@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0772",
-  "title": "Para enmendar los art\u00edculos 2.04, 2.08, 2.23; a\u00f1adir los nuevos art\u00edculos, 2.02-A, 2.04-A, 2.26 y 2.27 a la Ley 85-2018, seg\u00fan enmendada, conocida como la \u201cLey de Reforma Educativa de Puerto Rico\u201d, a los fines de establecer una nueva estructura organizacional para el Departamento de Educaci\u00f3n; crear las posiciones de Subsecretario, Principal Oficial Financiero y Principal Oficial de Inform\u00e1tica; disponer sus cualificaciones, funciones y deberes; transformar al Subsecretario para Asuntos Acad\u00e9micos y Program\u00e1ticos en el Principal Oficial Acad\u00e9mico; establecer la coordinaci\u00f3n entre \u00e9stos; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 2.04, 2.08, 2.22, 2.23 y a\u00f1adir los nuevos Art\u00edculos 2.02-A, 2.04-A, 2.26, 2.27 y 2.28 a la Ley 85-2018, seg\u00fan enmendada, conocida como la \"Ley de Reforma Educativa de Puerto Rico\", a los fines de establecer una nueva estructura organizacional para el Departamento de Educaci\u00f3n; crear las posiciones de Subsecretario, Oficial Principal Financiero y Oficial Principal de Inform\u00e1tica; disponer sus cualificaciones, funciones y deberes; transformar al Subsecretario para Asuntos Acad\u00e9micos y Program\u00e1ticos en el Oficial Principal Acad\u00e9mico; establecer la coordinaci\u00f3n entre estos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -298,6 +298,36 @@
       "_processing": {
         "log_file_created": "2026-07-01T14:14:17Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-09T14:36:52Z"
+      }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-09T14:36:52Z"
+      }
+    },
+    {
+      "description": "Ley 125-2026",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-09T14:36:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -440,6 +470,17 @@
       ],
       "date": "2026-06-19",
       "classification": ""
+    },
+    {
+      "note": "Ley 125-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158999/Ley 125-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -458,6 +499,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-01T14:14:17Z"
+    "logs_latest_update": "2026-07-09T14:36:52Z"
   }
 }
