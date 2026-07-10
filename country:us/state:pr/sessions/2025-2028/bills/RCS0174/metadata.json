@@ -50,17 +50,19 @@
       "_processing": {
         "log_file_created": "2026-04-21T13:06:16Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-07-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-10T14:04:00Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -70,19 +72,27 @@
       "organization_id": null
     },
     {
-      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -97,6 +107,17 @@
         }
       ],
       "date": "2026-04-16",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160975/rcs0174-Inf (negativo).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-06",
       "classification": ""
     }
   ],
@@ -116,6 +137,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:06:16Z"
+    "logs_latest_update": "2026-07-10T14:04:00Z"
   }
 }
